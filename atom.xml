@@ -3,11 +3,11 @@
   <title>Vleanm&#39;s Blog</title>
   
   <subtitle>care</subtitle>
-  <link href="https://github.com/Vleanm/blog-one/atom.xml" rel="self"/>
+  <link href="https://github.com/Vleanm/blog-one.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/Vleanm/blog-one/"/>
+  <link href="https://github.com/Vleanm/blog-one.github.io/"/>
   <updated>2021-05-26T15:19:12.859Z</updated>
-  <id>https://github.com/Vleanm/blog-one/</id>
+  <id>https://github.com/Vleanm/blog-one.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://github.com/Vleanm/blog-one/2021/05/26/hello-world/"/>
-    <id>https://github.com/Vleanm/blog-one/2021/05/26/hello-world/</id>
+    <link href="https://github.com/Vleanm/blog-one.github.io/2021/05/26/hello-world/"/>
+    <id>https://github.com/Vleanm/blog-one.github.io/2021/05/26/hello-world/</id>
     <published>2021-05-26T15:19:12.859Z</published>
     <updated>2021-05-26T15:19:12.859Z</updated>
     
